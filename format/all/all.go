@@ -4,6 +4,7 @@ package all
 
 import (
 	_ "github.com/wader/fq/format/ape"
+	_ "github.com/wader/fq/format/ar"
 	_ "github.com/wader/fq/format/av1"
 	_ "github.com/wader/fq/format/bzip2"
 	_ "github.com/wader/fq/format/dns"
@@ -14,6 +15,7 @@ import (
 	_ "github.com/wader/fq/format/icc"
 	_ "github.com/wader/fq/format/id3"
 	_ "github.com/wader/fq/format/inet"
+	_ "github.com/wader/fq/format/isa"
 	_ "github.com/wader/fq/format/jpeg"
 	_ "github.com/wader/fq/format/json"
 	_ "github.com/wader/fq/format/matroska"

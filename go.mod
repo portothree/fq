@@ -28,6 +28,8 @@ require (
 	github.com/wader/readline v0.0.0-20210920124728-5a81f7707bac
 )
 
+require golang.org/x/arch v0.0.0-20210923205945-b76863e36670
+
 require (
 	github.com/itchyny/timefmt-go v0.1.3 // indirect
 	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881 // indirect
